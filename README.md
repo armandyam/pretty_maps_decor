@@ -31,7 +31,7 @@ To generate and crop images based on location data specified in a JSON file:
 
 2. Run the script:
     ```
-    python main_script.py
+    python main.py
     ```
 
 
