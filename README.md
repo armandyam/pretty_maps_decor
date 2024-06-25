@@ -6,8 +6,8 @@ This repository contains a script that produces the image based on [pretty maps]
 
 1. Clone the repository:
     ```
-    git clone https://github.com/yourusername/your-repo.git
-    cd your-repo
+    git clone https://github.com/armandyam/pretty_maps_decor.git
+    cd pretty_maps_decor
     ```
 
 2. Install the required packages:
